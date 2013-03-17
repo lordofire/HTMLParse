@@ -1,0 +1,4 @@
+How to commit a file to this branch:
+command: git add XXX
+         git commit -m "XXX"
+         git push -u origin master
